@@ -1,0 +1,44 @@
+#title {
+  margin: 0;
+}
+body{
+  margin: 0;
+  background-color:#000000;
+}
+
+h1{
+  color: #FFFFFF;
+  font-size:5.0em;
+}
+.yycountdown-box{
+  text-align:center;
+  padding:10% 0;
+  color:#FFFFFF;
+}
+
+#timer .yycountdown-box .yyc-day{
+  font-size:10.5em;
+  color:#FFFFFF;
+  font-weight: bold;
+}
+#timer .yycountdown-box .yyc-hou{
+  font-size:10.5em;
+  color:#FFFFFF;
+  font-weight: bold;
+}
+#timer .yycountdown-box .yyc-min{
+  font-size:10.5em;
+  color:#FFFFFF;
+  font-weight: bold;
+}
+#timer .yycountdown-box .yyc-sec{
+  font-size:10.5em;
+  color:#FFFFFF;
+  font-weight: bold;
+}
+
+#timer .yycountdown-box .yyc-day-text,
+#timer .yycountdown-box .yyc-hou-text,
+#timer .yycountdown-box .yyc-min-text,
+#timer .yycountdown-box .yyc-sec-text{
+  font-size:3.0em;
